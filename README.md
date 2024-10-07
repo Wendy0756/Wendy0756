@@ -29,7 +29,7 @@ Here is a snapshot of me:
 ---
 ## Projects 🔭
 
-- 💼 Are we achieving WLB eventually? - A Descriptive Analysis of Working Hours on Age and Other Relevant Factors.
+- 🤖 Project In-process: AI Tax Research Helper
 - 🍫 Rate Your Chocolate - A Multiclass Classification Problem with Logistic Regression Models
 - 😊 Sentiment Detection on Tweets - A Binary Classification Problem on Text Data with CNN and RNN models 
--->
+---
