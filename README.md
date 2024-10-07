@@ -14,9 +14,9 @@ Here is a snapshot of me:
 
 - Born and raised in China, studied in the U.S., worked in tax for a couple of years, and fell in love with Data Science.
 - Pronouns: She/Her/Hers
-- A curious, passionate, well-organized, and easy-going team player, with a lot of hobbies.
+- A curious, passionate, and easy-going team player with many hobbies
 - A problem solver mostly code in Python, R, and SQL
-- Hobbies: Yoga, spending a couple of hours in art museums, cooking clean and yummy (yes it's possible to achieve both) food, and reading novels.
+- Hobbies: Yoga, Art museums, cooking, and reading novels.
 - To learn, to cope, and to love ❤️
 ---
 ## <h3> Toolbox </h3>
