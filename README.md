@@ -29,7 +29,6 @@ Here is a snapshot of me:
 ---
 ## Projects 🔭
 
-- 🤖 Project In-process: AI Tax Research Helper
-- 🍫 Rate Your Chocolate - A Multiclass Classification Problem with Logistic Regression Models
-- 😊 Sentiment Detection on Tweets - A Binary Classification Problem on Text Data with CNN and RNN models 
+- 🤖 [AI Tax Research Assistant under RAG framework](https://github.com/Wendy0756/AI-Tax-Research-Assistant-under-RAG-Framework)
+- 😊 [Content Attribution Detection on 1.6 Million Tweets](https://github.com/Wendy0756/Sentiment-Detection-Model-with-1D-CNN)
 ---
