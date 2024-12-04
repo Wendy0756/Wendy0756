@@ -12,11 +12,11 @@ Hey, you found me! This is Wendy, a lifelong explorer, currently diving into the
 
 Here is a snapshot of me:
 
-- Born and raised in China, studied in the U.S., worked in tax for a couple of years, and fell in love with Data Science.
+- Born and raised in China, studied in the U.S., worked in US income tax for a couple of years, and found life love in my journey with Data Science.
 - Pronouns: She/Her/Hers
-- A curious, passionate, and easy-going team player with many hobbies
-- A problem solver mostly code in Python, R, and SQL
-- Hobbies: Yoga, Art museums, cooking, and reading novels.
+- A curious, passionate, and collaborative problem-solver with a growing mindset
+- Mainly code in Python, R, and SQL
+- Hobbies: Yoga, art museums, National Parks, and reading novels.
 - To learn, to cope, and to love ❤️
 ---
 ## <h3> Toolbox </h3>
