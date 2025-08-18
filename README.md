@@ -1,7 +1,9 @@
 ![alt text](WordCloud.png)
 <div align="center">
-  
-## Linkedin Profile
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Wendy0756.Wendy0756)
+
+## LinkedIn Profile
 
 **[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wendytian2024ds/)**
 <div align="left">
@@ -23,9 +25,7 @@ Here is a snapshot of me:
 
 ![Python](https://img.shields.io/badge/-python-00008B?logo=python&logoColor=white&style=for-the-badge&labelColor=555)
 ![Sql](https://img.shields.io/badge/-MySQL-b1280?logo=mysql&logoColor=white&style=for-the-badge&labelColor=555)
-![Neo4j](https://img.shields.io/badge/-neo4j-0069c1?logo=neo4j&logoColor=white&style=for-the-badge&labelColor=555)
 ![RStudio](https://img.shields.io/badge/-R-75AADB?logo=r&logoColor=white&style=for-the-badge&labelColor=555)
-![git](https://img.shields.io/badge/-git-e84d31?logo=git&logoColor=white&style=for-the-badge&labelColor=555)
 ---
 ## Projects 🔭
 
